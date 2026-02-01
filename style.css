@@ -23,7 +23,7 @@ Texto: Carbon Black — #1E2019
 
 /*Config general de Body*/
 .body {
-    margin: 50px;
+    margin: 10px;
     text-align: center;
     background-color: #D3D0CB;      /* fondo */
     color: #1E2019;                 /* texto */
@@ -97,9 +97,17 @@ h3{
 }
 
 .list-img img{
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
     margin: 10px;
     border-radius: 10px;
     border: 2px solid #393E41;      /* primario */
+}
+
+.list-img img.logo{
+    width: 250px;
+    height: 250px;
 }
 
 /*Footer*/
