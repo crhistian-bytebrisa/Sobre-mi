@@ -29,6 +29,10 @@ Texto: Carbon Black — #1E2019
     color: #1E2019;                 /* texto */
 }
 
+p{
+    margin: 0px 20px 0px 20px;
+}
+
 h2{
     color: #393E41;                 /* primario */
 }
