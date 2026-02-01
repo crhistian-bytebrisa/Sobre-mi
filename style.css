@@ -30,7 +30,7 @@ Texto: Carbon Black — #1E2019
 }
 
 .ordenar-texto {
-    max-width: 80%;
+    max-width: 90%;
     margin: auto;
     text-align: center;
 }
@@ -112,12 +112,18 @@ h3{
 }
 
 /*Footer*/
-.footer-img{
+.footer{
     text-align: center;
-    background-color: #1E2019;      /* texto */
+    background-color: #393E41;      /* texto */
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
+.footer p{
+    color: white;
+}
 .footer-img img{
     width: 40px;
 }
