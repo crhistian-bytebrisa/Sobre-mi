@@ -29,8 +29,10 @@ Texto: Carbon Black — #1E2019
     color: #1E2019;                 /* texto */
 }
 
-p{
-    margin: 0px 20px 0px 20px;
+.ordenar-texto {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
 }
 
 h2{
@@ -60,11 +62,6 @@ h3{
     height: auto; 
     border: 3px solid #393E41;      /* primario */
     border-radius: 10px;
-}
-
-.pr-texto{
-    width: 80%;
-    text-align: center;
 }
 
 /*Apartado de pasatiempos*/
