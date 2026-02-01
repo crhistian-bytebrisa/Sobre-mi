@@ -97,8 +97,8 @@ h3{
 }
 
 .list-img img{
-    width: 250px;
-    height: 350px;
+    width: 150px;
+    height: 250px;
     object-fit: cover;
     margin: 10px;
     border-radius: 10px;
@@ -106,8 +106,8 @@ h3{
 }
 
 .list-img img.logo{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
 }
 
 /*Footer*/
